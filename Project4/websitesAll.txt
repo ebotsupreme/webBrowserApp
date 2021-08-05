@@ -1,0 +1,4 @@
+apple.com
+hackingwithswift.com
+reddit.com
+nba.com
